@@ -2,9 +2,7 @@
 Data analysis project combining SQL and Python to explore and visualize datasets, demonstrating data cleaning, aggregation, and reporting techniques
 
 
-Dataset:
-
-
+Dataset: [Synthetic User Sessions](https://huggingface.co/datasets/liniribeiro/synthetic-user-sessions)
 
 
 Things to understand about the user tracking:

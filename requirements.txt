@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+plotly==6.3.0
+seaborn
+matplotlib
+faker
+fsspec
+huggingface-hub
